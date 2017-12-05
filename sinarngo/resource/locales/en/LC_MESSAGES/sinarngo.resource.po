@@ -1,0 +1,58 @@
+# Gettext Message File for Plone
+msgid ""
+msgstr ""
+"Project-Id-Versionmsgid Plone\n"
+"POT-Creation-Datmsgid 2017-12-05 19msgid40+0000\n"
+"PO-Revision-Datmsgid 2017-12-05 23msgid00+0000\n"
+"Last-Translatormsgid Plone i18n <plone-i18n@lists.sourceforge.net>\n"
+"Language-Teammsgid Plone i18n <plone-i18n@lists.sourceforge.net>\n"
+"MIME-Versionmsgid 1.0\n"
+"Content-Tymsgid text/plain; charset=utf-8\n"
+"Content-Transfer-Encodingmsgid 8bit\n"
+"Plural-Formmsgid nplurals=1; plural=0;\n"
+"Language-Codmsgid en\n"
+"Language-Nammsgid English\n"
+"Preferred-Encodingmsgid utf-8\n"
+"Domainmsgid sinarngo.resource\n"
+
+
+msgid "C189 Ratification"
+msgstr ""
+
+msgid "Activity or Event Report"
+msgstr ""
+
+msgid "Application or Product"
+msgstr ""
+
+msgid "Books"
+msgstr ""
+
+msgid "Brochure, Promotional Materials"
+msgstr ""
+
+msgid "Data, Surveys, Fact Sheets"
+msgstr ""
+
+msgid "Legislation, Regulations"
+msgstr ""
+
+msgid "Interview, Panel, Presentation"
+msgstr ""
+
+msgid "Newsletter, Journal"
+msgstr ""
+
+msgid "Policy, Strategy or Plan"
+msgstr ""
+
+msgid "Project"
+msgstr ""
+
+msgid "Research reports, working paper"
+msgstr ""
+
+msgid "Training Material, Guides, Organizing/Educational Materials"
+msgstr ""
+
+

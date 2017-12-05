@@ -1,0 +1,53 @@
+# Gettext Message File for Plone
+msgid ""
+msgstr ""
+"Project-Id-Versionmsgid Plone\n"
+"POT-Creation-Datmsgid 2017-12-05 19msgid40+0000\n"
+"PO-Revision-Datmsgid 2017-12-05 23msgid00+0000\n"
+"Last-Translatormsgid Plone i18n <plone-i18n@lists.sourceforge.net>\n"
+"Language-Teammsgid Plone i18n <plone-i18n@lists.sourceforge.net>\n"
+"MIME-Versionmsgid 1.0\n"
+"Content-Tymsgid text/plain; charset=utf-8\n"
+"Content-Transfer-Encodingmsgid 8bit\n"
+"Plural-Formmsgid nplurals=1; plural=0;\n"
+"Language-Codmsgid en\n"
+"Language-Nammsgid English\n"
+"Preferred-Encodingmsgid utf-8\n"
+"Domainmsgid sinarngo.resource\n"
+
+
+msgid "Activity or Event Report"
+msgstr "Informe de actividad o evento"
+
+msgid "Application or Product"
+msgstr "Aplicación o Producto"
+
+msgid "Books"
+msgstr "Libros"
+
+msgid "Brochure, Promotional Materials"
+msgstr "Folleto, materiales promocionales"
+
+msgid "Data, Surveys, Fact Sheets"
+msgstr "Datos, encuestas, hojas de datos"
+
+msgid "Legislation, Regulations"
+msgstr "Legislación, Regulaciones"
+
+msgid "Interview, Panel, Presentation"
+msgstr "Entrevista, Panel, Presentación"
+
+msgid "Newsletter, Journal"
+msgstr "Boletín de noticias, diario"
+
+msgid "Policy, Strategy or Plan"
+msgstr "Política, estrategia o plan"
+
+msgid "Project"
+msgstr "Proyecto"
+
+msgid "Research reports, working paper"
+msgstr "Informes de investigación, documento de trabajo"
+
+msgid "Training Material, Guides, Organizing/Educational Materials"
+msgstr "Material de capacitación, Guías, Organización/Materiales educativos"
